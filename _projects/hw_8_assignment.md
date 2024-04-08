@@ -23,7 +23,7 @@ This first visualization is
 
 # Plot 2
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/testchart3.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/testchart4.json" style="width: 100%"></vegachart>
 
 This is where plot 2 is explained duh
 
