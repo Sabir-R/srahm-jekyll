@@ -17,7 +17,7 @@ Just testing to see if a new project page is made or not.
 
 # Plot 1
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/testchart1.json" style="width: 100%"></vegachart>
 
 This is where plot 1 is explained yada yada
 
