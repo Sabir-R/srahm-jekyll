@@ -19,11 +19,11 @@ Just testing to see if a new project page is made or not.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/testchart2.json" style="width: 100%"></vegachart>
 
-This is where plot 1 is explained yada yada
+This first visualization is 
 
 # Plot 2
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/testchart3.json" style="width: 100%"></vegachart>
 
 This is where plot 2 is explained duh
 
