@@ -13,6 +13,6 @@ custom_js:
 
 # Plot 1
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/project_chart.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_project_test_chart_2.json" style="width: 100%"></vegachart>
 
 
